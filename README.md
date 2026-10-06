@@ -21,7 +21,7 @@ Twitimer es una App gratuita para **[Android](https://play.google.com/store/apps
 * Puedes acceder a su código fuente libremente.
 * Explico cómo funciona a nivel técnico en cada plataforma.
 * Sirve como ejemplo de proyecto real para entender así el ciclo de vida de un producto de software.
-* Decidimos entre la comunidad cómo mejorarla o cómo priorizar la solución de sus bugs.
+* Decidimos entre la comunidad cómo mejorarla y cómo priorizar la solución de sus errores.
 * Contenido gratuito en formato **live codings** semanales en **[Twitch](https://twitch.tv/mouredev)** o de **tutoriales** en [**YouTube**](https://youtube.com/mouredevapps). Los live de Twitch se guardarán en mi **canal secundario** de [**YouTube**](https://youtube.com/mouredevbackups). También tenemos un canal de **chat** en nuestro servidor de **[Discord](https://discord.gg/U3KjjfUfUJ)**.
 * Y estas son sólo algunas ideas...
 
@@ -29,7 +29,7 @@ Twitimer es una App gratuita para **[Android](https://play.google.com/store/apps
 
 * En estos momentos **NO SE ACEPTAN PR** de código sobre el proyecto.
 
-*Esto no quiere decir que en un futuro tenga que seguir siendo así. Es un proyecto en su primera fase de desarrollo y quiero sirva de ayuda para el mayor número de personas, no únicamente las que realicen PR y tengan conocimientos para ello.*
+*Esto no quiere decir que en un futuro tenga que seguir siendo así. Es un proyecto en su primera fase de desarrollo y quiero que sirva de ayuda para el mayor número de personas, no únicamente las que realicen PR y tengan conocimientos para ello.*
 
 * **SÍ SE ACEPTAN PR** para corregir los ficheros de idioma y añadir otros nuevos.
 `Los encontrarás en app/src/main/res/values-[IDIOMA]/strings.xml`
